@@ -1,0 +1,6 @@
+
+# Build files
+/build.ps1
+/dist/
+/build/
+*.egg-info
