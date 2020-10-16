@@ -24,6 +24,6 @@ setuptools.setup(
     install_requires=requirements,
     python_requires='>=3',
     data_files=[
-        ('.', ['requirements'])
+        ('.', ['requirements.txt'])
     ]
 )
