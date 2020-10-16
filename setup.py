@@ -3,7 +3,7 @@ import setuptools
 with open("README.md", "r") as file:
     long_description = file.read()
 
-with open('requirements', 'r') as file:
+with open('requirements.txt', 'r') as file:
     requirements = [line.strip() for line in file]
 
 setuptools.setup(

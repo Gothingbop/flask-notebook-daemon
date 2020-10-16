@@ -2,5 +2,5 @@
 # Build files
 /build.ps1
 /dist/
-/build/
+/build/fl
 *.egg-info
