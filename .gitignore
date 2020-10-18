@@ -4,3 +4,7 @@
 /dist/
 /build/fl
 *.egg-info
+
+# Dev files
+.idea
+*.ipynb
